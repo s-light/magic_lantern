@@ -5,6 +5,7 @@
 magic lantern with *holographic* visuals
 
 ![sketch](sketch.svg)
+![sketch](sketch.png)
 
 inspired by [Hackerspace FFM - HoloDings](https://www.hackerspace-ffm.de/wiki/index.php?title=HoloDings)  
 uses the [AIRR "Aerial Imaging by Retro‐Reflection" concept developed by Prof. Yamamoto](http://www.k2.t.u-tokyo.ac.jp/perception/AIRR_Tablet/index-e.html)

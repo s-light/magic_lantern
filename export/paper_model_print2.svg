@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:cc="http://creativecommons.org/ns#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:svg="http://www.w3.org/2000/svg"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+     xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+     width="297mm"
+     viewBox="0 0 2970 2100"
+     height="210mm"
+     version="1.2"
+     id="svg142"
+     sodipodi:docname="paper_model_print2.svg"
+     inkscape:version="1.0.1 (1.0.1+r73)">
+    <metadata
+         id="metadata146">
+        <rdf:RDF>
+            <cc:Work
+                 rdf:about="">
+                <dc:title>FreeCAD SVG Export</dc:title>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <sodipodi:namedview
+         pagecolor="#ffffff"
+         bordercolor="#666666"
+         borderopacity="1"
+         objecttolerance="10"
+         gridtolerance="10"
+         guidetolerance="10"
+         inkscape:pageopacity="0"
+         inkscape:pageshadow="2"
+         inkscape:window-width="3840"
+         inkscape:window-height="2077"
+         id="namedview144"
+         showgrid="false"
+         inkscape:document-units="mm"
+         inkscape:pagecheckerboard="true"
+         inkscape:zoom="1.6991417"
+         inkscape:cx="506.84965"
+         inkscape:cy="356.85667"
+         inkscape:window-x="0"
+         inkscape:window-y="0"
+         inkscape:window-maximized="1"
+         inkscape:current-layer="svg142"
+         inkscape:snap-bbox="true"
+         inkscape:bbox-paths="true"
+         inkscape:bbox-nodes="true"
+         inkscape:snap-bbox-edge-midpoints="true"
+         inkscape:snap-bbox-midpoints="true"
+         inkscape:snap-intersection-paths="true"
+         inkscape:object-paths="true"
+         inkscape:snap-smooth-nodes="true"
+         inkscape:snap-midpoints="true"
+         inkscape:snap-object-midpoints="true"
+         inkscape:snap-center="true"
+         inkscape:snap-text-baseline="true"
+         inkscape:snap-page="true"
+         showguides="true"
+         inkscape:guide-bbox="true">
+        <sodipodi:guide
+             position="63.682834,2162.2018"
+             orientation="1,0"
+             id="guide1559" />
+        <sodipodi:guide
+             position="2900,2050"
+             orientation="-1,0"
+             id="guide1561"
+             inkscape:label=""
+             inkscape:locked="true"
+             inkscape:color="rgb(0,0,255)" />
+        <sodipodi:guide
+             position="50,2050"
+             orientation="0,1"
+             id="guide1563"
+             inkscape:label=""
+             inkscape:locked="true"
+             inkscape:color="rgb(0,0,255)" />
+        <sodipodi:guide
+             position="50,50"
+             orientation="0,1"
+             id="guide1565"
+             inkscape:label=""
+             inkscape:locked="false"
+             inkscape:color="rgb(0,0,255)" />
+    </sodipodi:namedview>
+    <title
+         id="title2">FreeCAD SVG Export</title>
+    <desc
+         id="desc4">Drawing page: Page001 exported from FreeCAD document: Unnamed</desc>
+    <defs
+         id="defs6">
+        <defs
+             id="defs847" />
+        <sodipodi:namedview
+             pagecolor="#ffffff"
+             inkscape:document-rotation="0"
+             showborder="true"
+             borderlayer="true"
+             inkscape:pageopacity="0.0"
+             inkscape:document-units="mm"
+             inkscape:window-y="0"
+             inkscape:window-maximized="1"
+             showgrid="false"
+             inkscape:pagecheckerboard="true"
+             units="px"
+             inkscape:cx="396.85039"
+             inkscape:cy="561.25984"
+             inkscape:window-width="3840"
+             inkscape:current-layer="svg2"
+             inkscape:zoom="1.5990811"
+             inkscape:window-height="2077"
+             inkscape:pageshadow="2"
+             bordercolor="#ff00ed"
+             inkscape:window-x="0"
+             borderopacity="1"
+             id="base"
+             inkscape:showpageshadow="false"
+             gridtolerance="10.0"
+             guidetolerance="10.0"
+             objecttolerance="10.0" />
+    </defs>
+    <rect
+         x="853.74402"
+         width="0"
+         height="0"
+         y="1055.2"
+         id="rect16"
+         style="font-style:normal;font-weight:400;font-size:35.2778px;font-family:'Noto Sans';fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+    <rect
+         x="853.74402"
+         width="0"
+         height="0"
+         y="1055.2"
+         id="rect36"
+         style="font-style:normal;font-weight:400;font-size:35.2778px;font-family:'Noto Sans';fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+    <rect
+         x="365.06799"
+         width="0"
+         height="0"
+         y="1053.24"
+         id="rect60"
+         style="font-style:normal;font-weight:400;font-size:35.2778px;font-family:'Noto Sans';fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+    <path
+         id="path76"
+         style="font-style:normal;font-weight:400;font-size:35.2778px;font-family:'Noto Sans';fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1"
+         d="M -830.13051,2019.8157 V 19.815732 h 600 V 2019.8157 Z"
+         sodipodi:nodetypes="ccccc" />
+    <rect
+         x="365.06799"
+         width="0"
+         height="0"
+         y="1053.24"
+         id="rect80"
+         style="font-style:normal;font-weight:400;font-size:35.2778px;font-family:'Noto Sans';fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+    <rect
+         x="1546.53"
+         width="0"
+         height="0"
+         y="548.86102"
+         id="rect104"
+         style="font-style:normal;font-weight:400;font-size:35.2778px;font-family:'Noto Sans';fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+    <path
+         id="path32-3"
+         style="font-style:normal;font-weight:400;font-size:35.2778px;font-family:'Noto Sans';fill:none;stroke:#000000;stroke-width:4.99999;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1"
+         d="M -955.15012,2025.7675 H -1237.9921 V 25.767458 h 282.84198 z"
+         sodipodi:nodetypes="ccccc" />
+    <g
+         id="g1309"
+         transform="translate(25.028792,-2226.0295)">
+        <path
+             id="path32"
+             style="font-style:normal;font-weight:400;font-size:35.2778px;font-family:'Noto Sans';fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1"
+             d="M 882.84192,0 H 1165.684 V 2000 H 882.84192"
+             sodipodi:nodetypes="cccc" />
+        <path
+             id="path76-6"
+             style="font-style:normal;font-weight:400;font-size:35.2778px;font-family:'Noto Sans';fill:none;stroke:#000000;stroke-width:4.99999;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1"
+             d="M 282.84197,0 H 882.84192 V 2000 H 282.84197"
+             sodipodi:nodetypes="cccc" />
+        <path
+             id="path32-3-7"
+             style="font-style:normal;font-weight:400;font-size:35.2778px;font-family:'Noto Sans';fill:none;stroke:#000000;stroke-width:4.99999;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1"
+             d="M 282.84197,1999.9999 H 0 V 0 h 282.84197 z"
+             sodipodi:nodetypes="ccccc" />
+        <path
+             id="path32-5"
+             style="font-style:normal;font-weight:400;font-size:35.2778px;font-family:'Noto Sans';fill:none;stroke:#000000;stroke-width:4.99999;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1"
+             d="M 1765.6839,-2e-5 H 2048.526 V 2000 h -282.8421"
+             sodipodi:nodetypes="cccc" />
+        <path
+             id="path76-6-3"
+             style="font-style:normal;font-weight:400;font-size:35.2778px;font-family:'Noto Sans';fill:none;stroke:#000000;stroke-width:4.99999;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1"
+             d="m 1165.684,-2e-5 h 599.9999 V 2000 H 1165.684"
+             sodipodi:nodetypes="cccc" />
+        <path
+             id="path32-5-5"
+             style="font-style:normal;font-weight:400;font-size:35.2778px;font-family:'Noto Sans';fill:none;stroke:#000000;stroke-width:4.99999;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1"
+             d="m 2648.5258,-2e-5 h 282.8421 V 2000 h -282.8421"
+             sodipodi:nodetypes="cccc" />
+        <path
+             id="path76-6-3-6"
+             style="font-style:normal;font-weight:400;font-size:35.2778px;font-family:'Noto Sans';fill:none;stroke:#000000;stroke-width:4.99999;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1"
+             d="m 2048.526,-2e-5 h 599.9998 V 2000 H 2048.526"
+             sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+         id="g1557"
+         transform="rotate(-90,1091.7784,1014.7635)">
+        <g
+             id="g1147"
+             transform="translate(-939.98809,56.370059)">
+            <path
+                 vector-effect="non-scaling-stroke"
+                 d="m 2046.53,848.861 v -600 l -200,-200 h -600 l -200,200 v 600 l 200,200 h 600 l 200,-200"
+                 fill-rule="evenodd"
+                 id="path100"
+                 style="font-style:normal;font-weight:400;font-size:35.2778px;font-family:'Noto Sans';fill:#000000;fill-opacity:0;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel" />
+            <path
+                 vector-effect="none"
+                 d="m 2046.53,248.861 -200,-200"
+                 fill-rule="evenodd"
+                 id="path108"
+                 style="font-style:normal;font-weight:400;font-size:35.2778px;font-family:'Noto Sans';fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1" />
+            <path
+                 vector-effect="none"
+                 d="m 1846.53,48.861 h -600"
+                 fill-rule="evenodd"
+                 id="path112"
+                 style="font-style:normal;font-weight:400;font-size:35.2778px;font-family:'Noto Sans';fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1" />
+            <path
+                 vector-effect="none"
+                 d="m 1246.53,48.861 -200,200"
+                 fill-rule="evenodd"
+                 id="path116"
+                 style="font-style:normal;font-weight:400;font-size:35.2778px;font-family:'Noto Sans';fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1" />
+            <path
+                 vector-effect="none"
+                 d="m 1046.53,248.861 v 600"
+                 fill-rule="evenodd"
+                 id="path120"
+                 style="font-style:normal;font-weight:400;font-size:35.2778px;font-family:'Noto Sans';fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1" />
+            <path
+                 vector-effect="none"
+                 d="m 1046.53,848.861 200,200"
+                 fill-rule="evenodd"
+                 id="path124"
+                 style="font-style:normal;font-weight:400;font-size:35.2778px;font-family:'Noto Sans';fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1" />
+            <path
+                 vector-effect="none"
+                 d="m 1246.53,1048.861 h 600"
+                 fill-rule="evenodd"
+                 id="path128"
+                 style="font-style:normal;font-weight:400;font-size:35.2778px;font-family:'Noto Sans';fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1" />
+            <path
+                 vector-effect="none"
+                 d="m 1846.53,1048.861 200,-200"
+                 fill-rule="evenodd"
+                 id="path132"
+                 style="font-style:normal;font-weight:400;font-size:35.2778px;font-family:'Noto Sans';fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1" />
+            <path
+                 vector-effect="none"
+                 d="m 2046.53,848.861 v -600"
+                 fill-rule="evenodd"
+                 id="path136"
+                 style="font-style:normal;font-weight:400;font-size:35.2778px;font-family:'Noto Sans';fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1" />
+        </g>
+        <path
+             id="path76-62"
+             style="font-style:normal;font-weight:400;font-size:35.2778px;font-family:'Noto Sans';fill:none;stroke:#000000;stroke-width:4.99999;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1"
+             d="m 1106.5419,305.23107 h 1000 v 600.00004 h -1000 z"
+             sodipodi:nodetypes="ccccc" />
+        <path
+             style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:4.99999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+             d="M 306.54191,105.23106 235.8313,34.520315 35.831872,234.51976 106.48566,305.17358 Z"
+             id="path1431-7-9"
+             sodipodi:nodetypes="ccccc" />
+        <path
+             id="path32-1"
+             style="font-style:normal;font-weight:400;font-size:35.2778px;font-family:'Noto Sans';fill:none;stroke:#000000;stroke-width:4.99999;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1"
+             d="M 1106.5419,305.23107 V 205.23106 h 1000 v 100.00001"
+             sodipodi:nodetypes="cccc" />
+        <path
+             id="path32-1-8"
+             style="font-style:normal;font-weight:400;font-size:35.2778px;font-family:'Noto Sans';fill:none;stroke:#000000;stroke-width:4.99998;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1"
+             d="m 2106.5419,905.23113 v 99.99997 h -1000 v -99.99997"
+             sodipodi:nodetypes="cccc" />
+        <path
+             id="path76-62-2"
+             style="font-style:normal;font-weight:400;font-size:35.2778px;font-family:'Noto Sans';fill:none;stroke:#000000;stroke-width:4.99999;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1"
+             d="M 6.541909,305.23106 H 106.54191 V 905.23107 H 6.541909 Z"
+             sodipodi:nodetypes="ccccc" />
+        <use
+             x="0"
+             y="0"
+             xlink:href="#path1431-7-9"
+             id="use1582"
+             transform="translate(870.71004,870.7113)"
+             width="100%"
+             height="100%" />
+        <use
+             x="0"
+             y="0"
+             xlink:href="#path1431-7-9"
+             id="use1582-3"
+             transform="rotate(90,606.48505,605.23044)"
+             width="100%"
+             height="100%" />
+        <use
+             x="0"
+             y="0"
+             xlink:href="#path1431-7-9"
+             id="use1582-3-5"
+             transform="rotate(90,-264.16876,605.23043)"
+             width="100%"
+             height="100%" />
+        <use
+             x="0"
+             y="0"
+             xlink:href="#path76-62-2"
+             id="use1620"
+             transform="translate(899.4301,20.724561)"
+             width="100%"
+             height="100%" />
+        <use
+             x="0"
+             y="0"
+             xlink:href="#path76-62-2"
+             id="use1620-9"
+             transform="rotate(90,56.541915,1155.2311)"
+             width="100%"
+             height="100%" />
+        <use
+             x="0"
+             y="0"
+             xlink:href="#path76-62-2"
+             id="use1620-9-2"
+             transform="rotate(90,606.54192,605.23106)"
+             width="100%"
+             height="100%" />
+    </g>
+    <use
+         x="0"
+         y="0"
+         xlink:href="#g1557"
+         id="use1654"
+         transform="rotate(180,1187.246,1050)"
+         width="100%"
+         height="100%" />
+</svg>
