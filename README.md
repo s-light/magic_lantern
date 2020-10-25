@@ -10,23 +10,7 @@ inspired by [Hackerspace FFM - HoloDings](https://www.hackerspace-ffm.de/wiki/in
 uses the [AIRR "Aerial Imaging by Retro‐Reflection" concept developed by Prof. Yamamoto](http://www.k2.t.u-tokyo.ac.jp/perception/AIRR_Tablet/index-e.html)
 
 ## research
-- [3M Scotchlite Reflex Transferfilm SL C790 Carbon Black](https://www.3mdeutschland.de/3M/de_DE/unternehmen-de/produkte/~/3M-Scotchlite-Reflective-Material-C790/?N=5002385+3290128154&preselect=3293786499&rt=rud)
-    - [A3](https://www.reflexfolie.de/reflexfolien/zuschnitte/reflexfolien-in-a3/3m-scotchlite-reflex-transferfilm-sl-c790)
-    - [A4](https://www.reflexfolie.de/reflexfolien/zuschnitte/reflexfolien-in-a4/3m-scotchlite-reflex-transferfilm-c790)
-- [3M Scotchlite Hochreflexfolie  High Gain 7610](https://multimedia.3m.com/mws/media/129346O/scotchlite-hochreflexfolie-high-gain-7610.pdf)
-    - [A3](https://www.reflexfolie.de/reflexfolien/zuschnitte/reflexfolien-in-a3/3m-hochreflexfolie-7610)
-    - [A4](https://www.reflexfolie.de/reflexfolien/zuschnitte/reflexfolien-in-a4/3m-hochreflexfolie-7610)
-
-
-
-
-
-
-
-
-
-
-
+for some links to shops for materials have a look at [research.md](research.md)
 
 
 
