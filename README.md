@@ -13,7 +13,11 @@ uses the [AIRR "Aerial Imaging by Retro‐Reflection" concept developed by Prof.
 ## research
 for some links to shops for materials have a look at [research.md](research.md)
 
-
+## status
+- finalize design
+- create cad model
+- ordered retro-reflex foil
+- requested samples for mirror foil
 
 ---
 
